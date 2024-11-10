@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/98622e2c-5814-4bf7-84d5-127531a5c2ef)
+
 # ⚡ Proyecto Detección de Fraude Bancario para Pontia.tech ⚡
 La empresa Pontia Bank S.L. necesita desarrollar un sistema de detección de transacciones fraudulentas.
 
